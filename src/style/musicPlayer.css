@@ -1,0 +1,17 @@
+.music_title{
+    color: aliceblue;
+    padding : 1rem;
+}
+
+
+.youtube_player {
+    max-width: 800px ;
+    margin: 2rem auto ;
+    }
+    
+    .youtube_player div {
+    position: relative;
+    height: 0;
+    padding-bottom: 56.25%;
+    }
+    
