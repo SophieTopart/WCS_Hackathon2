@@ -1,5 +1,5 @@
 # Projet de hackathon réalisé en 3 jours
-Voici l'adresse du back : 
+Voici l'adresse du back : https://github.com/SophieTopart/WCS_Hackathon2_back.git
 
 # Getting Started with Create React App
 
